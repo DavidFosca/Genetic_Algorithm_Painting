@@ -15,7 +15,7 @@ conjunto con operadores de cruzamiento y mutación se obtienen mejores resultado
 cada uno de estos de manera individual. Así mismo, para este problema en específico, es beneficioso tener
 una probabilidad de mutación del 100% y disponer de la posibilidad de aumentar genes al individuo.
 
-![alt text](https://github.com/DavidFosca/Genetic_Algorithm_Painting/Codigo_Python/Imagenes_Pruebas/bros.jpg?raw=true)
+![MarioBros_AG](https://user-images.githubusercontent.com/63430874/91642869-6c826b80-e9f4-11ea-8b7b-a139a9d50de6.jpg)
 
 Se comparten los siguientes archivos.
   - **File/Codigo_Python:** Contiene el notebook dónde se ejecutaron todas las pruebas (**"Notebook_Ejecución_Pruebas.ipynb"**). Si se desea ejecutar, descargarlo junto al archivo utils (**"utils_genetic_paint_mut.py"**) que contiene las funciones implementadas para el AG. Además, se pueden encontrar las imágenes utilizadas en las pruebas.

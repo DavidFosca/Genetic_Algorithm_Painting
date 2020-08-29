@@ -14,3 +14,7 @@ estratégicamente sus hiper-parámetros para obtener un mejor resultado. Se enco
 conjunto con operadores de cruzamiento y mutación se obtienen mejores resultados que trabajando con
 cada uno de estos de manera individual. Así mismo, para este problema en específico, es beneficioso tener
 una probabilidad de mutación del 100% y disponer de la posibilidad de aumentar genes al individuo.
+
+Se comparten los siguientes archivos.
+  - File/Codigo_Python: Contiene el notebook dónde se ejecutaron todas las pruebas (Notebook_Ejecución_Pruebas.ipynb). Si se desea ejecutar, descargarlo junto al archivo utils (utils_genetic_paint_mut.py) que contiene las funciones implementadas para el AG. Asi mismo, se pueden encontrar las imágenes utilizadas en las pruebas.
+  - File/Reporte_Resultados: Contiene el Reporte del Trabajo y las Tablas de resultados. Asi mismo, se puede encontrar cuatro videos de resultados.
